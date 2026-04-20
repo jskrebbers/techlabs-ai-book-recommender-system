@@ -1,3 +1,9 @@
+>  **Note:**  
+> This repository is a fork of the original project developed as part of the Artificial Intelligence track of the Techlabs Digital Shaper program.  
+> The development was carried out collaboratively in a team.  
+> Please refer to the original repository:  
+> https://github.com/Soufian13/AI_SEE
+
 # AI_SEE what you like - Book predictions based on sentiment analysis
 
 ## 1. Project Overview
